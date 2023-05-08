@@ -1,0 +1,46 @@
+.productos {
+	margin: 3rem 0;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	cursor: pointer;
+}
+
+.productos li {
+	text-align: center;
+	width: 300px;
+	margin: 1%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 5px solid #000000;
+	border-radius: 10px;
+}
+
+.productos li:hover {
+	transform: scale(1.01);
+	transition: all .1s;
+}
+.productos li:active {
+	transform: scale(1.02)
+}
+
+.productos h3 {
+	font-size: 30px;
+	font-weight: bold;
+}
+h2 img {
+	max-width: 100%;
+}
+
+.producto-descripcion {
+	font-size: 18px;
+}
+
+.producto-precio {
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 10px;
+}
