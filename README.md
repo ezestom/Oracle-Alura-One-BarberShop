@@ -1,2 +1,2 @@
 # Oracle-Alura-One-BarberShop
-![image](https://user-images.githubusercontent.com/100095709/236961092-e930bf50-e9d5-4f36-b41b-3acca7f916db.png)
+![image](https://github.com/ezestom/Oracle-Alura-One-BarberShop/assets/100095709/f79f5cf4-1d40-4b87-9f16-9efd09d0e2ad)
