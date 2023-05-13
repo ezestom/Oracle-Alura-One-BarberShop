@@ -64,9 +64,10 @@ form button {
 	margin-top: 1rem;
 	transition: all 0.2s ease-in-out;
 }
-input#radio-email {
-	padding-left: 1rem;
+input {
+	padding-left: 10%;
 }
+
 
 fieldset {
 	text-align: center;
@@ -119,9 +120,7 @@ form button:hover {
 }
 
 table {
-	padding: 3rem;
-	margin: 2rem;
-	text-align: start;
+	text-align: center;
 }
 table,
 thead,
@@ -132,4 +131,8 @@ td,
 th {
 	border: 1px solid #eeee;
 	padding: 0.5rem;
+}
+thead,
+tfoot{
+	background-color: #F5F5F5;
 }

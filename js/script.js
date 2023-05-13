@@ -13,8 +13,7 @@ window.addEventListener('load', function () {
          formulario.style.top = '-500px';
          main.style.filter = 'blur(0)';
       }
-   })     
-
+   })    
 });
 
 
